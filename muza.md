@@ -1,7 +1,7 @@
 ## Jasurshax
 ### Frontend DEV
 
-###### Skills and Proficiency
+###### Skillsgit
 * HTML
 * CSS
 * JS
