@@ -5,5 +5,7 @@
 * HTML
 * CSS
 * JS
+* GMA
+* MAS
 
 
